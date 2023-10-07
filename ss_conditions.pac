@@ -206,6 +206,8 @@ var __BLOCKEDSITES__ = [
   "*.zahav.ru",
   "*.zerkalo.io",
   "*.zona.media"
+  "*.2ip.ru"
+  "*.kinogo.biz"
 ];
 
 var proxy;
