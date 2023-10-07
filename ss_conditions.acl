@@ -208,6 +208,7 @@
 (?:^|\.)zahav\.ru$
 (?:^|\.)zerkalo\.io$
 (?:^|\.)zona\.media$
+(?:^|\.)2ip\.ru$
 
 [bypass_list]
 0.0.0.0/8
