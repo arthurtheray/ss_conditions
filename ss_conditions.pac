@@ -205,8 +205,8 @@ var __BLOCKEDSITES__ = [
   "*.yle.fi",
   "*.zahav.ru",
   "*.zerkalo.io",
-  "*.zona.media"
-  "*.2ip.ru"
+  "*.zona.media",
+  "*.2ip.ru",
   "*.kinogo.biz"
 ];
 
