@@ -207,7 +207,8 @@ var __BLOCKEDSITES__ = [
   "*.zerkalo.io",
   "*.zona.media",
   "*.2ip.ru",
-  "*.kinogo.biz"
+  "*.kinogo.biz",
+  "*.google.com"
 ];
 
 var proxy;
